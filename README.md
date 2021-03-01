@@ -1,7 +1,7 @@
 # **AnotherClass101🌷**#
 <img width="1028" alt="스크린샷 2021-01-11 00 02 36" src="https://user-images.githubusercontent.com/71719160/104126531-7489e900-53a0-11eb-99f2-f4dd69275f9b.png">
 
-**진행기간: 2020년 12월 28일 ~ 2021년 1월 8일**
+
 
 ## 🌷**프로젝트 소개**
 
