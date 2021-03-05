@@ -74,7 +74,7 @@
 
 # 🌷**후기**
 
-- 한민아 [https://velog.io/@mincode_](https://velog.io/@mincode_)
+- 한민아 https://velog.io/@mincode_/Class101clone-project-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A1%9C%EC%84%9C%EC%9D%98-%ED%9B%84%EA%B8%B0
 
 ---
 
