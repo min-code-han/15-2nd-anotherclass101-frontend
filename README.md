@@ -19,11 +19,11 @@
 ![2차사진](https://user-images.githubusercontent.com/71719160/104126401-9fc00880-539f-11eb-8f30-0fc738fdab1f.jpg)
 
 ### **👩‍👧‍👧FrontEnd**
-김별이, 박소윤, 한민아
+3명
 
 ### 👩‍👦‍👦 **BackEnd**
 
-김민철, 석여주(PM), 이재혁
+3명
 
 ---
 
@@ -33,9 +33,6 @@
 
 > HTML(JSX) / JavaScript (ES6) / React (CRA 세팅) / Styled-Component / Hooks(useState / useEffect / useRef) / Redux / React-Router / asiox
 
-### **BackEnd**
-
-> Python / Django / CORS Header / Bcrypt / PyJWT / MySQL / AqueryTool (데이터베이스 모델링) / Postman,Httpie (API 관리) / AWS(서버 및 DATABASE관리) / Django-seed및 Faker
 
 ### **협업 도구**
 
@@ -43,7 +40,7 @@
 
 ---
 
-# **⭐️ 구현한 기능**
+# **⭐️ 내가 구현한 기능**
 
 
 
